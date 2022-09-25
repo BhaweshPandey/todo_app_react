@@ -1,0 +1,30 @@
+.Header{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    text-decoration: none;
+    
+    
+
+}
+.Header ul{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.Header ul li {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    font-size: 2rem;
+    
+    
+}
+
+button{
+    margin: 4rem;
+    font-size: 1.5rem;
+    align-items: flex-end;
+    display: flex;
+}
